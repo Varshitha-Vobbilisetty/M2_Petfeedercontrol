@@ -1,9 +1,7 @@
-Servo motor-2B: Pass
-
-Atmega 328 : Pass
-
-Resistors (270 ohm, 10kohm) : Pass
-
-Led ( WS 2812) : Pass
-
-Voltage source ( 5V) : Pass
+| ID | Description | Status |
+| ---|:------------|:-------|
+| 1 | servo motor | pass |               |
+| 2 | Atmega 328 | Pass |
+| 3 | Resistors (270 ohm, 10kohm) | Pass |
+| 4 | Led ( WS 2812) | Pass |
+| 5 | Voltage source ( 5V) | Pass |
